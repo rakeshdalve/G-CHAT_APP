@@ -1,2 +1,2 @@
 # G-CHAT_APP
-group chat app
+chating with group circle
